@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+    height: 18.83px;
+    justify-content: center;
+    margin-top: 22px;
+    gap: 350px;
+}
+.nav h1{
+    font-family:"Glda display" ;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    line-height: 18.83px;
+    border: 0.7px;
+    color: #25A59E;
+}
+h2{
+    font-family: "Gilda display";
+    font-size:52px ;
+    font-weight:400 ;
+    line-height:100px ;
+    color: #262626;
+    text-align: center;
+    margin-top: 30px;
+}
+span{
+    color: #25A59E;
+}
+
+.img-container{
+    position: relative;
+    max-width: 375px;
+    height: 567px;
+}
+.img-container img {
+    width: 400px;
+}
+.blurry{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: -180px;
+    margin-left: 50px;
+}
+.ellipse{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 50px;
+    
+}
+.hero{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 60px;
+    margin-top: -45px;
+}
