@@ -9,14 +9,32 @@ This project is a web page designed with HTML and CSS,featuring a responsive lay
 
 
 [Introduction](#overview)
+
+
 [Live Demo](#live-demo)
+
+
 [Features](#features)
+
+
 [Technologies Used](#technologies-used)
+
+
 [Setup and Installation](#setup-and-installation)
+
+
 [Usage](#usage)
+
+
 [Media Queries](#media-queries)
+
+
 [License](#license)
+
+
 [Author(s)](#authors)
+
+
 ##Overview
 This project is built using HTML and CSS and provides a visually appealing and responsive layout for a web page.It includes sections such as:
 A header with navigation and images with headings and background 
