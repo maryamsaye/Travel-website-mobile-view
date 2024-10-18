@@ -44,3 +44,43 @@ A destination section with cards and descriptions
 A choose section highlighting features
 A trip section with images and contents
 A footer with additional links and information
+
+
+##[Live Demo]
+
+
+-checkout the live demo of the project;[Live Demo] (https://travel-website-mobile-view.onrender.com)
+
+
+##Technologies Used
+
+-HTML5
+-CSS3
+
+
+##Features
+
+
+-**Responsive Design**
+
+The layout adjust to various screen sizes using media queries.
+
+
+-**Custom Properties**
+
+
+Utilizes CSS variable for theme colors,making it easy to adjust the overall color scheme.
+
+
+-**Modern Typography**
+
+Uses "Urbanist" and "Gilda Display" Fonts for a modern and clean look.
+
+
+-**Flexbox Layout**
+
+Ensures elements are properly aligned and spaced,creating a balancced design
+
+
+##Setup Instructions
+
