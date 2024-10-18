@@ -84,3 +84,70 @@ Ensures elements are properly aligned and spaced,creating a balancced design
 
 ##Setup Instructions
 
+
+**Clone the Repository**
+```bash
+           git        clone
+https://github.com/Devmaryamsaye/travel-website.git
+ ```
+
+**Navigate to the Project directory**
+ ```bash
+     cd travel-website
+               ```
+
+**Open the HTML File**
+
+
+Open index. html in your preferred browser to view the project.
+
+
+##Usage
+
+
+ -The CSS file ('styles.css') includes various sections with classes that define the layout and styles for the web page.
+-To make any adjustments,edit the `styles.css`file ,and the changes will reflect on the web page upon refreshing the browser.
+
+
+##Media Queries
+
+
+The project includes media Queries to adjust the layout for various screen sizes
+
+
+-** 1244px and below **:
+
+Adjust the fonts sizes in the hero section for a Desktop-view
+
+-** 10933px and below **:
+
+  Reduces fonts sizes and adjust padding for elements in the hero and destination sections.
+
+
+##License.
+
+
+ This project is licensed under MIT License.
+
+
+##Author(s)
+
+
+-**Name:
+
+
+Maryam Abdu Saye
+
+
+-**Email:
+
+
+marynsaye@gmail.com
+
+
+-**GitHub:
+
+
+[Devmaryamsaye](https://github.com/Devmaryamsaye)
+          
+
