@@ -457,13 +457,7 @@ span{
     margin-top: 60px;
     margin-bottom: 30px;
 }
-.video img{
-    width: 375px;
-    height: 220px;
-    margin-left: 30px;
-    margin-top: -20px;
 
-}
 .footer{
     width: 375px;
     height: 553px;
@@ -587,18 +581,18 @@ span{
     margin-left: 40px;
 }
 .header-links ul {
- display: flex;
- flex-direction: row;
- color: #595959;
- font-family: "Urbanist";
- font-weight: 600;
- font-size: 16px;
- line-height: 24px;
- list-style: none;
- gap: 30px;
- margin-top: 50px;
- margin-left: 30px;
- margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    color: #595959;
+    font-family: "Urbanist";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
 }
+
 
 
