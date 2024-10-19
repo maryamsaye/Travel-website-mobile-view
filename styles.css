@@ -457,7 +457,10 @@ span{
     margin-top: 60px;
     margin-bottom: 30px;
 }
-
+.video{
+    margin-left: 70px;
+    height: 220px;
+}
 .footer{
     width: 375px;
     height: 553px;
@@ -489,12 +492,14 @@ span{
     color: #262626;
     margin-top: -40px;
     margin-bottom: 30px;
+    margin-left: 40px;
 }
 .offer img{
     height: 54px;
     width: 147px;
     padding: 16px,32px,16px,32px;
     gap: 10px;
+    margin-left: 40px;
 }
 .social2{
     width: 375px;
@@ -518,6 +523,7 @@ span{
     font-size: 16px;
     line-height: 24px;
     color: #595959;
+    margin-left: 20px;
 
 }
 .notification h3{
@@ -528,7 +534,7 @@ span{
     font-size: 16px;
     line-height: 24px;
     color: #595959;
-    margin-left: 10px;
+    margin-left: 30px;
     margin-top: -20px;
 
 }
@@ -542,6 +548,7 @@ span{
     line-height: 18.83px;
     color: #25A59E;
     margin-top: 60px;
+    margin-left: 30px;
 }
 .social-link{
     display: flex;
