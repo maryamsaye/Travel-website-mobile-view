@@ -46,19 +46,19 @@ A trip section with images and contents
 A footer with additional links and information
 
 
-##[Live Demo]
+## [Live Demo]
 
 
 -checkout the live demo of the project;[Live Demo] (https://travel-website-mobile-view-sh78.onrender.com)
 
 
-##Technologies Used
+## Technologies Used
 
 -HTML5
 -CSS3
 
 
-##Features
+## Features
 
 
 -**Responsive Design**
@@ -82,7 +82,7 @@ Uses "Urbanist" and "Gilda Display" Fonts for a modern and clean look.
 Ensures elements are properly aligned and spaced,creating a balancced design
 
 
-##Setup Instructions
+## Setup Instructions
 
 
 **Clone the Repository**
@@ -102,14 +102,14 @@ https://github.com/Devmaryamsaye/travel-website.git
 Open index. html in your preferred browser to view the project.
 
 
-##Usage
+## Usage
 
 
  -The CSS file ('styles.css') includes various sections with classes that define the layout and styles for the web page.
 -To make any adjustments,edit the `styles.css`file ,and the changes will reflect on the web page upon refreshing the browser.
 
 
-##Media Queries
+## Media Queries
 
 
 The project includes media Queries to adjust the layout for various screen sizes
@@ -124,22 +124,22 @@ Adjust the fonts sizes in the hero section for a Desktop-view
   Reduces fonts sizes and adjust padding for elements in the hero and destination sections.
 
 
-##License.
+## License.
 
 
  This project is licensed under MIT License.
 
 
-##Author(s)
+## Author(s)
 
 
--**Name:
+-** Name:
 
 
 Maryam Abdu Saye
 
 
--**Email:
+-** Email:
 
 
 marynsaye@gmail.com
@@ -148,7 +148,7 @@ marynsaye@gmail.com
 -**GitHub:
 
 
-[Devmaryamsaye](https://github.com/Devmaryamsaye)
+[maryamsaye](https://github.com/maryamsaye)
           
 
 
