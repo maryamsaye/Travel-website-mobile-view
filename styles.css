@@ -37,6 +37,7 @@ span{
     position: relative;
     max-width: 375px;
     height: 567px;
+    margin-left: -10px;
 }
 .img-container img {
     width: 400px;
@@ -82,6 +83,7 @@ span{
     line-height: 24px;
     color: #595959;
     margin-bottom: 50px;
+    margin-left: 25px;
 }
 .best-destination{
     width: 375px;
@@ -90,6 +92,9 @@ span{
     padding: 80px,20px,80px,20px;
     margin-left: 40px;
 
+}
+.best-destination h1 {
+    margin-left: 25px;
 }
 .lake{
     border: solid 2px;
@@ -128,11 +133,10 @@ span{
     height:378px;
     gap: 24px;
     width: 335px;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 .destinations {
     height: 2700px;
-    margin-left: 40px;
 }
 .us h1{
     width: 335px;
@@ -156,13 +160,13 @@ span{
     color: #595959;
 }
 .us{
-    margin-left: 80px;
+    margin-left: 75px;
 }
 .listcard{
     width: 335px;
     height: 808px;
     gap: 20px;
-    margin-left: 60px;
+    margin-left: 55px;
 }
 .listtop{
     width: 335.33px;
@@ -445,7 +449,7 @@ span{
     gap: 24px;
     top: 4955px;
     color: #FFFFFF;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 .watch h4{
     width: 335px;
