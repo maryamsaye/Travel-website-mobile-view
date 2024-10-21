@@ -49,7 +49,7 @@ A footer with additional links and information
 ##[Live Demo]
 
 
--checkout the live demo of the project;[Live Demo] (https://travel-website-mobile-view.onrender.com)
+-checkout the live demo of the project;[Live Demo] (https://travel-website-mobile-view-sh78.onrender.com)
 
 
 ##Technologies Used
