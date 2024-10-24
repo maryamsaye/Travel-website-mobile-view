@@ -613,6 +613,17 @@ span{
     margin-left: 30px;
 }
     
+@media only screen and (max-width: 500px) {
+    .us {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .text-group {
+        margin-top: 50px
+    }
+
+}
+
 
 @media only screen and (min-width: 1025px) {
     body {
