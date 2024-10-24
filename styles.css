@@ -620,7 +620,7 @@ span{
     }
     .card-container {
         grid-template-columns: repeat(3, 1fr); 
-        margin-left: 50px;
+        margin-left: 55px;
     }
     .nav {
         justify-content: space-between;
@@ -732,13 +732,37 @@ span{
     .watch {
         transform: translateY(-510%);
         width: 1380px;
-        margin-left: -10px;
+        margin-left: -45px;
     }
     .watch h4 {
         width: 680PX;
         font-size: 72PX;
         line-height: 84PX;
         margin-left: 370PX;
+    }
+    .footer {
+        transform: translateY(-250%);
+    }
+    .offer h1 {
+        width: 743px;
+        font-size: 72px;
+    }
+    .offer img {
+        margin-left: 1100px;
+        transform: translateY(-250%);
+    }
+    .divider {
+        width: 1440px;
+        margin-top: -50px;
+        margin-left: -5px;
+    }
+    .social-link {
+        margin-left: -30px;
+    }
+    .header-links {
+        margin-left: 900px;
+        width: 463px;
+        margin-top: -50px;
     }
     
 
