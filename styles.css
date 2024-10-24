@@ -615,6 +615,9 @@ span{
     
 
 @media only screen and (min-width: 1025px) {
+    body {
+        overflow-x: hidden;
+    }
     .card-container {
         grid-template-columns: repeat(3, 1fr); 
         margin-left: 50px;
@@ -726,7 +729,17 @@ span{
     }
     
 
-    
+    .watch {
+        transform: translateY(-510%);
+        width: 1380px;
+        margin-left: -10px;
+    }
+    .watch h4 {
+        width: 680PX;
+        font-size: 72PX;
+        line-height: 84PX;
+        margin-left: 370PX;
+    }
     
 
 
